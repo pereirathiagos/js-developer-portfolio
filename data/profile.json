@@ -1,10 +1,10 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Thiago R S Pereira",
+  "photo": "https://avatars.githubusercontent.com/u/133459464?v=4",
+  "job": "Junior Developer",
+  "location": "Goiânia - GO",
+  "phone": "(62) 99941-3218",
+  "email": "trsppereiraa@gmail.com",
   "skills": {
     "hardSkills": [
       {
@@ -42,37 +42,51 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Inglês (basico)",
+    "Espanhol (basico)"
   ],
   "portfolio": [
     {
       "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "url": "https://github.com/pereirathiagos/js-developer-pokedex",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Este projeto consiste em uma landing page para uma cafeteria, utilizando o framework CSS Bootstrap.",
+      "url": "https://github.com/pereirathiagos/website-coffee-shop",
+      "github": true
+    },
+    {
+      "name": "Este é um projeto de site estático criado como um clone do website da Apple, utilizando apenas HTML e CSS.",
+      "url": "https://github.com/pereirathiagos/clone-website-apple",
+      "github": true
+    },
+    {
+      "name": "Este projeto consiste em um clone do site HBO Max, com o objetivo de reproduzir a interface original, além de aplicar algumas modificações com base nos temas abordados ao longo das aulas de CSS da plataforma Digital Innovation One.",
+      "url": "https://github.com/pereirathiagos/clone-site-hbo-max",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
+      "name": "Analista de TI / VISAN Médica",
+      "period": "abr de 2023 - mai de 2023",
       "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Analista de suporte de TI / GRUPO UNICOM",
+      "period": "mar de 2021 - abr de 2023",
+      "description": "Como um Analista de Suporte de TI experiente e especializado em infraestrutura de TI, VMware e pfSense, estou comprometido em fornecer serviços de TI de alta qualidade e garantir que os sistemas da empresa estejam disponíveis e protegidos contra ameaças externas. "
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Analista de desenvolvimento / Hoje Tecnologia",
+      "period": "set de 2019 - jun de 2020",
+      "description": "Como Analista de Requisitos, minha função é identificar as necessidades dos usuários e traduzi-las em requisitos funcionais e técnicos que possam ser usados ​​para desenvolver software e outros sistemas."
+    },
+    {
+      "name": "Analista de suporte de redes / Maminfo",
+      "period": "jul de 2015 - ago de 2019",
+      "description": "Como Analista de Suporte de Rede, sou responsável por garantir a disponibilidade e o desempenho das redes de computadores de uma empresa ou organização."
     }
   ]
 }
