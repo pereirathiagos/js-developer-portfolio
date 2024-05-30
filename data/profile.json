@@ -1,9 +1,9 @@
 {
-  "name": "Thiago R S Pereira",
+  "name": "Thiago Ricardo dos Santos Pereira",
   "photo": "https://avatars.githubusercontent.com/u/133459464?v=4",
   "job": "Junior Developer",
   "location": "Goiânia - GO",
-  "phone": "(62) 99941-3218",
+  "phone": "(62) 9 9941-3218",
   "email": "trsppereiraa@gmail.com",
   "skills": {
     "hardSkills": [
@@ -47,17 +47,17 @@
       "github": true
     },
     {
-      "name": "Este projeto consiste em uma landing page para uma cafeteria, utilizando o framework CSS Bootstrap.",
+      "name": "Projeto consiste em uma landing page para uma cafeteria, utilizando o framework CSS Bootstrap.",
       "url": "https://github.com/pereirathiagos/website-coffee-shop",
       "github": true
     },
     {
-      "name": "Este é um projeto de site estático criado como um clone do website da Apple, utilizando apenas HTML e CSS.",
+      "name": "Projeto de site estático criado como um clone do website da Apple, utilizando apenas HTML e CSS.",
       "url": "https://github.com/pereirathiagos/clone-website-apple",
       "github": true
     },
     {
-      "name": "Este projeto consiste em um clone do site HBO Max, com o objetivo de reproduzir a interface original, além de aplicar algumas modificações com base nos temas abordados ao longo das aulas de CSS da plataforma Digital Innovation One.",
+      "name": "Projeto é um clone do site HBO Max, recriando sua interface e aplicando modificações aprendidas nas aulas de CSS da Digital Innovation One.",
       "url": "https://github.com/pereirathiagos/clone-site-hbo-max",
       "github": true
     }
